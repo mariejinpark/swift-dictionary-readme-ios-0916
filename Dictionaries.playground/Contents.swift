@@ -1,3 +1,5 @@
+//
+
 var favoriteWords = [
     "rigmarole": "a lengthy and complicated procedure",
     "gobbledygook": "language that is meaningless; nonsense",
